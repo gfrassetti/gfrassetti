@@ -4,6 +4,7 @@
 - 💞️ I’m looking to collaborate on videogames, full-stack web projects
 
 Yo can find me in: 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Guido_Frassetti-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/guido-fr-930004204/)
 
 
 <!---
