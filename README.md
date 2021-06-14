@@ -1,8 +1,9 @@
-- 👋 Hi, I’m @gfrassetti
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m Guido
+- 👀 I’m interested in game and web development, software and applications
+- 🌱 I’m currently learning python, javascript, and django
+- 💞️ I’m looking to collaborate on videogames, full-stack web projects
+
+Yo can find me in: 
 
 
 <!---
