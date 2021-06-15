@@ -1,3 +1,10 @@
+- ## Español:
+- Hola! Soy Guido 👋
+- Estoy interesado en desarrollo de videojeugos. web, software y aplicaciones
+- Actualmente estoy estudiando diplomatura en python, javascript y Django
+- Busco aprender, ganar experiencia, colaborar en el desarrollo de videojuegos, y desarrollo web full stack
+
+- ## English:
 - 👋 Hi, I’m Guido
 - 👀 I’m interested in game and web development, software and applications
 - 🌱 I’m currently learning python, javascript, and django
