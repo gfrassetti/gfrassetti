@@ -5,10 +5,10 @@
 - Busco aprender, ganar experiencia, colaborar en el desarrollo de videojuegos, y desarrollo web full stack
 
 - ## English:
-- 👋 Hi, I’m Guido
-- 👀 I’m interested in game and web development, software and applications
-- 🌱 I’m currently learning python, javascript, and django
-- 💞️ I’m looking to collaborate on videogames, full-stack web projects
+- Hi, I’m Guido
+- I’m interested in game and web development, software and applications
+- I’m currently learning python, javascript, and django
+- I’m looking to collaborate on videogames, full-stack web projects
 
 <!---
 GuidoFrassetti/GuidoFrassetti is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
