@@ -9,11 +9,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://linkedin.com/in/frassettiguido" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="frassettiguido" height="30" width="40" /></a>
 </p>
 
-GuidoFrassetti/GuidoFrassetti is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
 ## Skills:
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white&labelColor=101010)]()
 [![UnityEngine](https://img.shields.io/badge/Unity-999999?style=for-the-badge&logo=unity&logoColor=white&labelColor=101010)]()
