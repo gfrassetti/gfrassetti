@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Guido Frassetti</h1>
 <h3 align="center">Full Stack Developer, Game developer</h3>
 
-- 🌱 I’m currently learning **Sass, React**
+- 🌱 I’m currently learning **React**
 
-- 👯 I’m looking to collaborate on **game and web development, software and applications**
+- 👯 I’m looking to collaborate on **game and web development**
 
 - 📫 How to reach me **guidofrassetti@gmail.com**
 
