@@ -19,7 +19,7 @@
 ## Some of my works:
 - https://gfrassetti.github.io/pokedex/
 
-- https://kioskodeplantas.000webhostapp.com/
+- https://gfrassetti.github.io/kiosko-de-plantas/
 
 - https://gfrassetti.github.io/memotest/
 
