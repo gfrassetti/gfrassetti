@@ -23,5 +23,5 @@
 
 - https://gfrassetti.github.io/memotest/
 
-- https://gfrassetti.github.io/juego-simon-dice/
+
 
