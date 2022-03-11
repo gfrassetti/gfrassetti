@@ -8,7 +8,7 @@
 - 📫 How to reach me **guidofrassetti@gmail.com**
 
 ## Skills:
-[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white&labelColor=101010)]()
+[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white&labelColor=red)]()
 [![React](https://img.shields.io/badge/React-68dcfc?style=for-the-badge&logo=react&logoColor=white&labelColor=101010)]()
 [![UnityEngine](https://img.shields.io/badge/Unity-999999?style=for-the-badge&logo=unity&logoColor=white&labelColor=101010)]()
 [![Python](https://img.shields.io/badge/Python-007396?style=for-the-badge&logo=python&logoColor=white&labelColor=101010)]()
