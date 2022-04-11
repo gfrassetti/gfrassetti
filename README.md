@@ -17,14 +17,9 @@
  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Guido_Frassetti-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/guido-fr-930004204/)
 
-## Some of my works:
-- https://gfrassetti.github.io/pokedex/
+## My Portfolio:
+- https://guidofrassetti.netlify.app/
 
-- https://gfrassetti.github.io/kiosko-de-plantas/
-
-- https://gfrassetti.github.io/memotest/
-
-- https://gfrassetti.github.io/juego-simon-dice/
 
 
 
